@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "Fife Public Schools Website",
+"description": "Fife Public Schools - Link to District Website",
+"version": "1.1",
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"https://sites.google.com/a/fifeschools.com/fsd/"
+],
+"launch": {
+"web_url": "https://sites.google.com/a/fifeschools.com/fsd/"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
